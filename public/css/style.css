@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1 {
+  color: white;
+  font-size: 5rem;
+  margin: 0;
+}
+
+p {
+  color: white;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.centered {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
